@@ -18,7 +18,8 @@ The reason we are interested in Australia is because during the run of the Covid
 subject of much controversy and resulted in drastic differences in how Covid-19 was handled when compared to other countries. The spread of new
 Covid-19 variants in Australia was also of concern.
 
-The data collection and visualization process is detailed in the report. You can overview the various visualizations below:
+The data collection and visualization process is detailed in the report. Read the report to understand the visualizations, or you can briefly
+overview the various visualizations below:
 
 ![spread1](https://user-images.githubusercontent.com/40469219/175962594-505bd1c9-e114-4a6c-9873-76e557459761.jpg)
 
